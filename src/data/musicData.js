@@ -9,7 +9,7 @@ export const musicData = [
     playing: '1,040,811.084',
     time: '4:53',
     image: michael,
-    audioUrl: '/audio/billie-jean.mp3' //
+    audioUrl: 'https://cdn-preview-e.dzcdn.net/stream/c-e0b8a45f1af33c58e2adb2b9aae93b95-2.mp3' //
   },
   {
     id: 2,
